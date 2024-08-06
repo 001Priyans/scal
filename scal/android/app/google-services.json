@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "878580778069",
+    "project_id": "scal-ae62f",
+    "storage_bucket": "scal-ae62f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878580778069:android:baada72bb2ae3466a180dc",
+        "android_client_info": {
+          "package_name": "com.mycompany.scal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJMi6erur9_7je8_SSEEvjBvmcrqO1G5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
